@@ -5,4 +5,3 @@ for(let i = 1; i < number.length; i++){
         maxnum = number[i];
     }
 }
-console.log(maxnum);
